@@ -1,4 +1,7 @@
 /target/
+/target
+target/
+
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -11,6 +14,7 @@
 .sts4-cache
 *.jar
 *.cmd
+*.class
 
 ### IntelliJ IDEA ###
 .idea
